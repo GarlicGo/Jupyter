@@ -7,7 +7,7 @@
 常见问题:
 使用cv2展示图片部分的代码如下所示，最后一句`cv2.waitKey(1)`是用于解决macOS中窗口不关闭的问题，Windows系统可直接删除。
 ```python
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
-    cv2.waitKey(1)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+cv2.waitKey(1)
 ```
