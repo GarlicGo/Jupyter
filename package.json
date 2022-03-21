@@ -1,0 +1,23 @@
+{
+  "name": "jupyter",
+  "version": "1.0.0",
+  "description": "Jupyter中写js使用到的依赖",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarlicGo/Jupyter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarlicGo/Jupyter/issues"
+  },
+  "homepage": "https://github.com/GarlicGo/Jupyter#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
