@@ -13,8 +13,7 @@
 
 维护：周新宇
 开发环境：VS Code、Python 3.9.7
-
-
+支持语言：Python ES6
 
 
 学习资源:
